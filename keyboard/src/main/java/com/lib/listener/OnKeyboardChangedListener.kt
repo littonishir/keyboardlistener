@@ -1,4 +1,4 @@
-package com.lib.keyboardlistener
+package com.lib.listener
 
 interface OnKeyboardChangedListener {
     /**

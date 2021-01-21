@@ -7,7 +7,7 @@
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  */
-package com.lib.keyboardlistener
+package com.lib.listener
 
 import android.content.Context
 import android.os.Build

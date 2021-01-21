@@ -1,4 +1,4 @@
-package com.lib.keyboardlistener
+package com.lib.listener
 
 import android.graphics.Rect
 import android.view.View

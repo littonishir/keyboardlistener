@@ -5,8 +5,8 @@ import android.view.inputmethod.InputMethodManager
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.constraintlayout.widget.ConstraintLayout
-import com.lib.keyboardlistener.GlobalLayoutListener
-import com.lib.keyboardlistener.OnKeyboardChangedListener
+import com.lib.listener.GlobalLayoutListener
+import com.lib.listener.OnKeyboardChangedListener
 
 class MainActivity : AppCompatActivity(), OnKeyboardChangedListener {
     override fun onCreate(savedInstanceState: Bundle?) {
