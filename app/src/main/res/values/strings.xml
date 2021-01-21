@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">keyboardlistener</string>
+    <string name="app_hint">请点击调用键盘</string>
+</resources>
